@@ -1,0 +1,2 @@
+# GWS
+This repository is for the Global Warning System designed by Open Source for Good Contributors. For deployment instructions see the deployment guide.  If you'd like to contribute, the contributing guide explains the git workflow and the developers guide gives an overview of how the app works.  Some issues are quite large, don't feel like you have to finish them, it's ok. Little bits help too! Start slow!  There's a demo showing our main target https://youtu.be/Jz_HzkZN_5I saving people lives.
